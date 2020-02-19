@@ -1,0 +1,46 @@
+{
+  "psi": [
+    {
+      "id": "1",
+      "ime": "Fifi",
+      "rasa": "Labrador",
+      "vakcinisan": false
+    },
+    {
+      "id": "2",
+      "ime": "Lunja",
+      "rasa": "Mešanac",
+      "vakcinisan": false
+    },
+    {
+      "id": "3",
+      "ime": "Meda",
+      "rasa": "Šarplaninac",
+      "vakcinisan": true
+    },
+    {
+      "id": "4",
+      "ime": "Sima",
+      "rasa": "Haski",
+      "vakcinisan": true
+    },
+    {
+      "id": "5",
+      "ime": "Cile",
+      "rasa": "Maltezer",
+      "vakcinisan": false
+    },
+    {
+      "id": "6",
+      "ime": "Džoni",
+      "rasa": "Bernardinac",
+      "vakcinisan": true
+    },
+    {
+      "id": "7",
+      "ime": "Džeki",
+      "rasa": "Mešanac",
+      "vakcinisan": true
+    }
+  ]
+}
