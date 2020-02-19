@@ -1,0 +1,19 @@
+.del {
+    background:red;
+    color: white;
+    border: none;
+    padding: 5px 9px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+  }
+  
+  .pas {
+    background: whitesmoke;
+    padding: 10px;
+    border-bottom: 1px black;
+  }
+  
+  .is-complete {
+    text-decoration: none;
+  }

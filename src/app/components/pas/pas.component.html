@@ -1,0 +1,15 @@
+<div [ngClass]="setClasses()">
+    <p>
+      <input
+        (change)="onToggle(pas)"
+        type="checkbox"
+        id="{{ pas.id }}"
+        [checked]="pas.vakcinisan"
+      />
+      <label for="{{ pas.id }}">
+        {{ pas.ime }},
+        {{ pas.rasa }}
+      </label>
+      <button (click)="onDelete(pas)" class="del">X</button>
+    </p>
+  </div>
